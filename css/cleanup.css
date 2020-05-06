@@ -20,3 +20,6 @@ div#wall div.parent div#tag-5.slick {
 }
 
 
+html body div#wall div.parent div > #tag-7.slick {
+  display: none;
+}
