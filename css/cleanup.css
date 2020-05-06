@@ -11,5 +11,7 @@ div#wall #tag-2 {
   display: none;
 }
 
-
+#wall .parent {
+  display: none;
+}
 
